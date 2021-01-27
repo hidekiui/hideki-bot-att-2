@@ -17,9 +17,6 @@ Comando: '${prefix}toimg'
 Função: converter adesivos em imagem
 Como Usar: responder a sticker 
 
-Comando:'${prefix}criador'
-Função: Mostra as informações do criador do bot
-
 🔰 Comandos de Memes 🔰  
 
 Comando: '${prefix}meme'
@@ -153,7 +150,8 @@ Função: ative o modo simi no grupo
 Como Usar: '${prefix}simih 1' para ativar o modo simih e '${prefix}simih 0' para desativar o modo simih
 Obs: Este comando pode ser usado se você for um administrador do grupo 
 
-🔰 não me adicione nos grupos, se quiser me add fale com o meu dono (wa.me/+5511946462131)
+🔰 não me adicione nos grupos, se quiser me add fale com o meu dono
+                              (  wa.me/+5511946462131  )
 
 
 
